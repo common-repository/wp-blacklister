@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* wpBlacklister Options Page */
+
+.wpb-description {
+	font-size:0.95em;
+	padding-bottom:18px;
+}
+
+#wpb-display-container {
+}
+
+.wpb-col-container {
+	float:left; 
+	margin:4px 0 4px 8px;
+}
+
+.wpb-sec-title {
+	margin:18px 0 6px 15px;
+}
+
+.wpb-col-title {
+	margin:0 0 0 15px;
+}
+
+.wpb-count {
+	color:#f00;
+	font-size:small; 
+	font-weight:normal;
+}
+
+
+.wbp-col-container textarea {
+}
+
+.wpb-clear {
+	height:0px;
+	width:auto;
+	clear:both;
+	visibility:hidden;
+	content:'&nbsp;';
+}
+
+
